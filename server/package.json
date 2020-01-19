@@ -1,0 +1,12 @@
+{
+    "name": "mmo-nodejs",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "binary-parser": "*",
+        "dotenv": "*",
+        "mongoose": "^5.8.6",
+        "performance-now": "*",
+        "underscore": "*"
+    }
+}
